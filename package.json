@@ -1,0 +1,23 @@
+{
+  "name": "projectdev",
+  "version": "1.0.0",
+  "description": "## Usando github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecatto804/projeto-aula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecatto804/projeto-aula/issues"
+  },
+  "homepage": "https://github.com/cecatto804/projeto-aula#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
