@@ -7,3 +7,7 @@ if (a > 6) {
     console.log("Menor");
 }
 console.log(a);
+
+function createProduct() {
+    return {name: "Car"};
+}
